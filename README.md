@@ -29,4 +29,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 4. Less Panicking.
 
-
+5. Better security around hosting/data hosting
